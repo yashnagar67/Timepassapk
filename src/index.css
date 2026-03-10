@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, sans-serif;
+  --color-brand-500: #FFC600;
+  /* Yellow */
+  --color-brand-600: #F09100;
+  /* Darker Yellow/Orange */
+  --color-light-100: #FFFFFF;
+  --color-light-200: #F8FAFC;
+}
+
+body {
+  background-color: var(--color-light-100);
+  color: #0f172a;
+  margin: 0;
+  font-family: var(--font-sans);
+}
