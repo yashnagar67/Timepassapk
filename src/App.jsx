@@ -195,7 +195,7 @@ function App() {
               </tr>
               <tr className="bg-[#fcfcfc]">
                 <td className="p-3 border font-semibold border-gray-200">Downloads</td>
-                <td className="p-3 border border-gray-200">9 Billion +</td>
+                <td className="p-3 border border-gray-200">11K +</td>
               </tr>
             </tbody>
           </table>
